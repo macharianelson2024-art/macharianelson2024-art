@@ -1,7 +1,7 @@
 # Hi, I'm Nelson Macharia 👋🏾
-**Full-Stack Developer (Junior) · Final-Year Computer Science Student · Kenya 🇰🇪**
+**Full-Stack Developer (Junior) · Final-Year Computer Science Student**
 
-I build practical full-stack systems for everyday people and small businesses in Kenya, with a focus on payments, delivery, and useful business workflows.
+I build practical full-stack systems for everyday people and small businesses, with a focus on payments, delivery, and useful business workflows.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254719857793) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-macharia-97b715314/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macharianelson2024-art) [![Email](https://img.shields.io/badge/Email-macharianelson2024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macharianelson2024@gmail.com)
 
@@ -9,11 +9,11 @@ I build practical full-stack systems for everyday people and small businesses in
 
 ## 🧭 About Me
 
-I'm a final-year student pursuing a Diploma in Computer Science in Kenya.
+I'm a final-year student pursuing a Diploma in Computer Science.
 
 I'm a junior developer who learns by building, testing, listening to feedback, and improving the details that make software useful.
 
-My main focus is full-stack development for real Kenyan problems, especially the needs of everyday users and small businesses.
+My main focus is full-stack development for real-world problems, especially the needs of everyday users and small businesses.
 
 I learn quickly, adapt to new tools, and enjoy working across the frontend, backend, data, and integrations of a product.
 
@@ -41,7 +41,7 @@ I'm early in my journey — but I build like it matters.
 
 ## 🚀 Projects
 
-### 01 · [Gmarketfy](https://github.com/macharianelson2024-art/gmarketfy-marketplace) — Multi-Vendor Marketplace for Kenya `Flagship`
+### 01 · [Gmarketfy](https://github.com/macharianelson2024-art/gmarketfy-marketplace) — Multi-Vendor Marketplace `Flagship`
 
 Gmarketfy is a marketplace MVP that connects clients, vendors, and drivers through product discovery, ordering, M-Pesa payments, dispatch, live delivery tracking, and vendor payouts.
 
@@ -95,4 +95,4 @@ Open to junior developer roles, internships, freelance work, mentorship, and col
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254719857793) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-macharia-97b715314/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macharianelson2024-art) [![Email](https://img.shields.io/badge/Email-macharianelson2024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macharianelson2024@gmail.com)
 
-**Built in Kenya, for Kenya. Open to feedback, collaboration, and hard problems.**
+**Open to feedback, collaboration, and hard problems.**
